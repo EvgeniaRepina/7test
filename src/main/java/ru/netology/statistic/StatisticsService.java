@@ -3,7 +3,7 @@ package ru.netology.statistic;
 public class StatisticsService {
     /**
      * проверка2
-     *
+     * проверка 2
      * @param incomes - array of incomes
      * @return - index of first max value
      */
